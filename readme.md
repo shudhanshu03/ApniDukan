@@ -1,1 +1,1 @@
-This is an Ecommerce wesbite made using MERN Stack
+This is an Ecommerce wesbite created using MERN Stack
